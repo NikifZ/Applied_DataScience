@@ -1,1 +1,2 @@
 # Applied_DataScience
+This is among the first data science-related initiatives I have done. Various libraries were utilized in this endeavor for practice, including pandas, numpy, matplotlib, and sklearn. I have performed evaluations regarding data cleansing. Following that, I worked with the X test, y test, X train, and y train in this project to make a new prediction model. Furthermore, I assess the accuracy of the model's predictions as well as the proportion when they are accurate.
